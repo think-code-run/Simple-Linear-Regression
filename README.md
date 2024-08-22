@@ -37,3 +37,11 @@ To run this project, you will need:
 Python 3.x
 NumPy (for numerical calculations)
 Matplotlib (for data visualization)
+
+# Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+# Acknowledgements
+This project is inspired by the need to understand the fundamentals of machine learning without relying on high-level libraries. Special thanks to online resources and textbooks that provided the theoretical foundation for this project.
+
+
